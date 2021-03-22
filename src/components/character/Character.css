@@ -1,0 +1,15 @@
+.character-main-info {
+  display: flex;
+  align-items: center;
+}
+
+.character-text-info {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-left: 12px;
+}
+
+.character-description {
+  color: rgba(0, 0, 0, 0.45);
+}

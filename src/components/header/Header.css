@@ -1,0 +1,8 @@
+.ant-layout-header {
+  display: flex;
+}
+
+.logo {
+  height: 50px;
+  margin-right: 10px;
+}
